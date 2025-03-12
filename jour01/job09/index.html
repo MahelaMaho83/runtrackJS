@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tri des Nombres</title>
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <h1>Tri des Nombres</h1>
+    <form id="triForm">
+        <label for="numbers">Entrez une liste de nombres séparés par des virgules :</label>
+        <input type="text" id="numbers" required>
+        <br>
+        <label for="order">Choisissez l'ordre du tri :</label>
+        <select id="order">
+            <option value="asc">Ascendant</option>
+            <option value="desc">Descendant</option>
+        </select>
+        <br>
+        <button type="submit">Trier</button>
+    </form>
+    <h2>Résultat :</h2>
+    <p id="result"></p>
+</body>
+</html>
