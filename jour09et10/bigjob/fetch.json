@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "user": {
+        "email": "mahela.mahosiarinosy@laplateforme.io",
+        "password": "MotDePasseSecurisé123!",
+        "role": "Etudiant"
+      },
+      "events": [
+        {
+          "date": "2025-04-14",
+          "title": "Journée 1"
+        },
+        {
+          "date": "2025-05-06",
+          "title": "Journée 1"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "user": {
+        "email": "chica.lovejoy@laplateforme.io",
+        "password": "MotDePasseSecurisé123!",
+        "role": "admin"
+      },
+      "events": [
+        {
+          "date": "2025-04-14",
+          "title": "Journée 1"
+        },
+        {
+          "date": "2025-05-06",
+          "title": "Journée 1"
+        }
+      ]
+    }
+  ]

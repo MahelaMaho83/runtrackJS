@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "user": {
+        "first_name": "mahosiarinosy",
+        "last_name": "mahela",
+        "email": "mahela.mahosiarinosy@laplateforme.io",
+        "password": "MotDePasseSecurisé123!",
+        "role": "Etudiant"
+      },
+      "events": [
+        {
+          "date": "2025-04-14",
+          "title": "Journée 1"
+        },
+        {
+          "date": "2025-05-06",
+          "title": "Journée 1"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "parent": {
+        "first_name": "niko",
+        "last_name": "henry",
+        "email": "niko.henry@laplateforme.io",
+        "password": "MotDePasseSecurisé123!",
+        "role": "Parent"
+      },
+      "events": [
+        {
+          "date": "2025-04-14",
+          "title": "Journée 1"
+        },
+        {
+          "date": "2025-05-06",
+          "title": "Journée 1"
+        }
+      ]
+    }
+  ]
+  
+  
